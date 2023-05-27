@@ -42,7 +42,7 @@
 <script>
 import { ref } from "vue";
 import { PxChevronUp, PxChevronDown, PxCheck } from "oh-vue-icons/icons";
-import "./styles.css";
+import "../assets/selectStyles.css";
 
 export default {
   name: "SelectDemo",

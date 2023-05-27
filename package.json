@@ -7,6 +7,8 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "@radix-ui/colors": "^0.1.8",
+    "oh-vue-icons": "^1.0.0-rc3",
     "vue": "^3.2.37",
     "vue-router": "^4.1.3"
   },
